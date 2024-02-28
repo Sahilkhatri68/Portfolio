@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Home",
+    "icon": "bi-house-fill",
+    "path": "/"
+  },
+  {
+    "id": 2,
+    "title": "Devices",
+    "icon": "bi-database-fill-add",
+    "path": "/devices"
+  }
+]
